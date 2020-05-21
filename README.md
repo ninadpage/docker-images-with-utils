@@ -1,6 +1,7 @@
 # ubuntu-with-utils
-ubuntu:bionic (18.04.x LTS) Docker image with common utils:
+ubuntu:focal (20.04.x LTS) Docker image with common utils:
 
+* awscli
 * curl
 * dnsutils
 * git
@@ -18,3 +19,4 @@ ubuntu:bionic (18.04.x LTS) Docker image with common utils:
 * traceroute
 * vim
 * wget
+* zip
