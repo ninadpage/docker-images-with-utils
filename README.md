@@ -1,22 +1,11 @@
 # ubuntu-with-utils
-ubuntu:focal (20.04.x LTS) Docker image with common utils:
+Ubuntu & Alpine Docker image with common networking & debugging utils, including:
 
-* awscli
-* curl
-* dnsutils
-* git
-* hping3
-* httpie
-* iputils-ping
-* iputils-tracepath
-* jq
-* netcat
-* net-tools
-* nmap
-* ssh
-* tcpdump
-* telnet
-* traceroute
-* vim
-* wget
-* zip
+- curl
+- git
+- jq
+- netcat
+- telnet
+- traceroute
+- wget
+- zip
